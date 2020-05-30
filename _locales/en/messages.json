@@ -1,0 +1,29 @@
+{
+  "ContentLabel_Cookies": {
+    "message": "Cookies"
+  },
+  "ContentLabel_LocalStorage": {
+    "message": "Local Storage"
+  },
+  "ContentLabel_SessionStorage": {
+    "message": "Session Storage"
+  },
+  "ContentLabel_CacheStorage": {
+    "message": "Cache Storage"
+  },
+  "ContentLabel_ServiceWorker": {
+    "message": "Service Workers"
+  },
+  "ContentLabel_Iframe": {
+    "message": "IFrames"
+  },
+  "ContentLabel_Cache": {
+    "message": "Cache"
+  },
+  "ContentLabel_Javascript": {
+    "message": "Scripts"
+  },
+  "ClearButton_Clear": {
+    "message": "clear"
+  }
+}
