@@ -33,10 +33,5 @@
     "cookies",
     "storage"
   ],
-  "default_locale": "en",
-  "applications": {
-    "gecko": {
-      "id": "christoph.sachse@gmail.com"
-    }
-  }
+  "default_locale": "en"
 }
